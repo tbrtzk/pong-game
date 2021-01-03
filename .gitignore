@@ -1,0 +1,9 @@
+venv
+
+*.iml
+*.xml
+
+.idea
+
+__pycache__
+
